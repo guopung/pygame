@@ -1,3 +1,2 @@
 # pygame
-a python game 
-a python programe for the newer 
+a python project for the newer 
